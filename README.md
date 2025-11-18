@@ -27,7 +27,7 @@ A **Flutter Developer** focused on building scalable, production-ready mobile ap
 
 ## 📌 Featured Projects
 
-### 📝 **Task Flow — Task Management App**
+### 📝 **Task Flow - Task Management App**
 Full productivity app with real-time sync, CRUD, reminders, and notifications.  
 **Tech:** Flutter, Firebase Auth, Firestore, Provider, MVVM  
 **Features:** Add/edit/delete tasks, reminders, cloud sync, reorderable lists, light/dark mode  
