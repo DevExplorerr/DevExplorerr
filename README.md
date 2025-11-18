@@ -1,8 +1,6 @@
-# 💫 About Me:
-# 👋 Hi, I’m Muhammad Saad Jamal — **Flutter Developer**
+# 👋 Hi, I’m Muhammad Saad Jamal
 
-I build fast, scalable, and production-ready mobile applications using **Flutter**.  
-My focus is clean architecture, maintainable code, and seamless user experiences backed by real cloud integrations.
+A **Flutter Developer** focused on building scalable, production-ready mobile applications with clean architecture and cloud-backed functionality. I specialize in Firebase integrations, MVVM state management, responsive UI/animations, and real-world features like chatbots, notifications, and per-user sync. I care about writing maintainable, architecture-first code that scales as projects grow.
 
 ---
 
@@ -36,33 +34,33 @@ Full productivity app with real-time sync, CRUD, reminders, and notifications.
 
 ---
 
-### 💧 **Drips Water — E-Commerce + Chatbot**
+### 💧 **Drips Water - E-Commerce + Chatbot**
 Water delivery app with product catalog, cart workflow, and a Dialogflow chatbot for support.  
 **Tech:** Flutter, Firebase, Dialogflow, MVVM  
 **Notes:** Clean UI structure, improved search, unified hero animations.
 
 ---
 
-### 🎟 **Eventify — Event Management System**
+### 🎟 **Eventify - Event Management System**
 Manage events with a polished UI and real-time backend.  
 **Tech:** Flutter, Firestore, Provider  
 
 ---
 
-### 📚 **Grade Wise — GPA & CGPA Calculator**
+### 📚 **Grade Wise - GPA & CGPA Calculator**
 Accurate GPA/CGPA calculator with light & dark theme support.  
 **Tech:** Flutter, Provider  
 **Notes:** Simple, lightweight, reliable.
 
 ---
 
-### 🛍 **Glitz Mart — E-Commerce App**
+### 🛍 **Glitz Mart - E-Commerce App**
 Modern e-commerce flow with product grid, search, product detail, and cart logic.  
 **Tech:** Flutter, MVVM  
 
 ---
 
-### 🍳 **Cookify — Recipe App**
+### 🍳 **Cookify - Recipe App**
 Recipe browsing app with category filters and detailed screens.  
 **Tech:** Flutter  
 
