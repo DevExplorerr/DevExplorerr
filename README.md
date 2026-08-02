@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Clean+Architecture+%26+Firebase;Building+Production-Grade+Mobile+Ecosystems;Open+to+Remote+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%26+Firebase;Building+Production-Grade+Mobile+Ecosystems;Open+to+Remote+Opportunities" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Muhammad Saad Jamal
 
-A **Flutter Developer** building production-grade, SaaS-style mobile ecosystems — complete systems that go beyond the UI to include backend architecture, real-time data, and the operational tooling (like admin dashboards) that make an app usable by real people, not just a portfolio piece.
+A **Mobile App Developer** building production-grade, SaaS-style mobile ecosystems — complete systems that go beyond the UI to include backend architecture, real-time data, and the operational tooling (like admin dashboards) that make an app usable by real people, not just a portfolio piece.
 
 I focus on architectural optimization: Clean Architecture (Repository-Service-Provider) for testable, maintainable codebases, paired with deliberate work on memory footprint and UI rebuild efficiency so performance holds up as data and users scale. Firebase (Auth, Firestore, RBAC) and REST APIs form the backbone of how I connect apps to the real world.
 
