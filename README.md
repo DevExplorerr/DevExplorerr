@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Flutter+Developer;Clean+Architecture+%26+Firebase;Building+Production-Grade+Mobile+Ecosystems;Open+to+Remote+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Clean+Architecture+%26+Firebase;Building+Production-Grade+Mobile+Ecosystems;Open+to+Remote+Opportunities" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Muhammad Saad Jamal
@@ -144,14 +144,8 @@ Event registration app with Firebase Authentication, Hive-based bookmarking, and
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevExplorerr/DevExplorerr/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DevExplorerr&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DevExplorerr&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DevExplorerr&icon=0&color=1)](https://visitcount.itsvg.in)
