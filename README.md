@@ -1,7 +1,3 @@
-<img width="1902" height="866" alt="image" src="https://github.com/user-attachments/assets/6240b8f6-efb0-41a3-b7df-9d858144df71" /><p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%26+Firebase;Building+Production-Grade+Mobile+Ecosystems;Open+to+Remote+Opportunities" alt="Typing SVG" />
-</p>
-
 # 👋 Hi, I'm Muhammad Saad Jamal
 
 A **Mobile App Developer** building production-grade, SaaS-style mobile ecosystems — complete systems that go beyond the UI to include backend architecture, real-time data, operational tooling (like admin dashboards) and AI integrations that make an app usable by real people, not just a portfolio piece.
