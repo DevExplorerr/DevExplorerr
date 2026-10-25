@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1902" height="866" alt="image" src="https://github.com/user-attachments/assets/6240b8f6-efb0-41a3-b7df-9d858144df71" /><p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Flutter+%26+Firebase;Building+Production-Grade+Mobile+Ecosystems;Open+to+Remote+Opportunities" alt="Typing SVG" />
 </p>
 
@@ -11,7 +11,7 @@ I focus on architectural optimization: Clean Architecture (Repository-Service-Pr
 Alongside internships, I'm actively building independent, production-focused mobile products end-to-end — and currently open to remote Flutter opportunities.
 
 <p align="center">
-  <a href="https://portfolio-website-saad.netlify.app"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-0077B5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.saadjamal.dev/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-0077B5?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Status-Open_to_Remote_Work-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white" />
   <a href="https://github.com/DevExplorerr?tab=repositories"><img src="https://img.shields.io/badge/GitHub-View_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
